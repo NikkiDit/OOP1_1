@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>377ADAC0-2954-4BA0-9248-4A69F9B7540A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Navigee</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E3611F22-3D4B-410F-9F0A-4F3F382F2E18</key>
+		<string>https://github.com/NikkiDit/OOP1_1.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Navigee/Navigee.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E3611F22-3D4B-410F-9F0A-4F3F382F2E18</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/NikkiDit/OOP1_1.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E3611F22-3D4B-410F-9F0A-4F3F382F2E18</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E3611F22-3D4B-410F-9F0A-4F3F382F2E18</string>
+			<key>IDESourceControlWCCName</key>
+			<string>OOP1_1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
